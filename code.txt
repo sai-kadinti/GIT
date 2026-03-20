@@ -1,4 +1,0 @@
-Day 1 : Code completed
-Day 2: Code Completed and Correct code
-
-what if git reset --soft and modify the file
